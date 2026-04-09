@@ -1,1 +1,2 @@
 git clone: crea una copia local exacta de un repositorio Git remoto
+git commit: guarda de forma permanente una instantánea de los cambios preparados en el repositorio local, creando una nueva versión del proyecto
