@@ -1,2 +1,5 @@
 git clone: crea una copia local exacta de un repositorio Git remoto
 git commit: guarda de forma permanente una instantánea de los cambios preparados en el repositorio local, creando una nueva versión del proyecto
+git push: sube los commits desde tu repositorio local hacia un repositorio remoto
+git status: muestra el estado actual de tu directorio de trabajo y del área de preparación
+git add: prepara los cambios realizados en tu directorio de trabajo para ser incluidos en el prómixo commit
